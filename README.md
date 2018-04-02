@@ -2,7 +2,7 @@
 
 ## OPC UA
 
-opc.tcp://<hostname/IP>:<TCP port>/<optional>
+#### opc.tcp://<hostname/IP>:<TCP port>/<optional>
   
  https://forum.unified-automation.com/topic1558.html
 
