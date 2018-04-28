@@ -18,13 +18,10 @@ https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
 https://www.youtube.com/watch?v=23Tpy-U9tZ0
 
-in linux:
+
+pyuic5 -x test.ui -o test.py
 
 pyuic5 test.ui > test.py 
-
-in windows: 
-
-pyuic4 test.ui -o test.py
 
 ## Autonomous Driving
 
