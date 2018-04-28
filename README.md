@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=LunfgUhlo_M
 
 https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
+## install qt
+
+https://www.youtube.com/watch?v=23Tpy-U9tZ0
+
 
 
 ## Autonomous Driving
