@@ -20,11 +20,11 @@ https://www.youtube.com/watch?v=23Tpy-U9tZ0
 
 in linux:
 
-pyuic5 input.ui > output.py 
+pyuic5 test.ui > test.py 
 
 in windows: 
 
-pyuic4 input.ui -o output.py
+pyuic4 test.ui -o test.py
 
 ## Autonomous Driving
 
