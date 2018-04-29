@@ -1,8 +1,8 @@
 # work2018
 
-## OPC UA
+### OPC UA
 
-#### opc.tcp://<hostname/IP>:<TCP port>/<optional>
+##### opc.tcp://<hostname/IP>:<TCP port>/<optional>
   
  https://forum.unified-automation.com/topic1558.html
 
@@ -10,13 +10,17 @@ https://jacekhryniewicz.wixsite.com/website/how-to-setup-opc-server-on-br-simula
 
 https://www.youtube.com/watch?v=LunfgUhlo_M
 
-## pi local wlan webserver
+##### pi local wlan webserver
 
 https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
-## install qt
+##### install qt
 
 https://www.youtube.com/watch?v=23Tpy-U9tZ0
+
+http://physiologicalsignals.blogspot.de/
+
+https://www.bitcraze.io/2013/11/plottab-and-pyqtgraph/
 
 
 pyuic5 -x test.ui -o test.py
