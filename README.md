@@ -47,6 +47,10 @@ https://www.sciencedirect.com/science/article/pii/S0031320317303266
 
 ### MPC Control
 
+https://github.com/NikolasEnt/Model-Predictive-Control
+
+https://github.com/darienmt/CarND-MPC-Project-P5
+
 https://github.com/jeremy-shannon/CarND-MPC-Project
 
 https://github.com/mithi/mpc
