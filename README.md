@@ -46,3 +46,7 @@ https://www.sciencedirect.com/science/article/pii/S0031320317303266
 ### Path Finding
 
 ### MPC Control
+
+https://www.tu-ilmenau.de/fileadmin/media/math/Tagungen/Elg._WS_2013/20130211_Elgersburg.pdf
+
+
