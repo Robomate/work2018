@@ -47,6 +47,8 @@ https://www.sciencedirect.com/science/article/pii/S0031320317303266
 
 ### MPC Control
 
+https://github.com/jeremy-shannon/CarND-MPC-Project
+
 https://github.com/mithi/mpc
 
 https://github.com/mvirgo/MPC-Project
