@@ -47,6 +47,12 @@ https://www.sciencedirect.com/science/article/pii/S0031320317303266
 
 ### MPC Control
 
+https://github.com/mithi/mpc
+
+https://github.com/mvirgo/MPC-Project
+
+##### MPC Theory
+
 http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8906188&fileOId=8906189
 
 https://www.tu-ilmenau.de/fileadmin/media/math/Tagungen/Elg._WS_2013/20130211_Elgersburg.pdf
