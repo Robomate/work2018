@@ -49,4 +49,8 @@ https://www.sciencedirect.com/science/article/pii/S0031320317303266
 
 https://www.tu-ilmenau.de/fileadmin/media/math/Tagungen/Elg._WS_2013/20130211_Elgersburg.pdf
 
+http://num.math.uni-bayreuth.de/de/thesis/2008/Bauer_Susanne/Bauer_Susanne.pdf
+
+https://arxiv.org/pdf/1712.04965.pdf
+
 
