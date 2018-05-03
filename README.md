@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=LunfgUhlo_M
 
 https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
+##### pi can 2 module
+
+http://copperhilltech.com/pican2-controller-area-network-can-interface-for-raspberry-pi/
+
 ##### install qt
 
 https://sites.google.com/site/hardwaremonkey/real-time_bar_display
