@@ -18,6 +18,8 @@ https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
 http://copperhilltech.com/pican2-controller-area-network-can-interface-for-raspberry-pi/
 
+https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=155651&p=1023355#p1023355
+
 ##### install qt
 
 https://sites.google.com/site/hardwaremonkey/real-time_bar_display
