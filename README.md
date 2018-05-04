@@ -75,4 +75,10 @@ http://num.math.uni-bayreuth.de/de/thesis/2008/Bauer_Susanne/Bauer_Susanne.pdf
 
 https://arxiv.org/pdf/1712.04965.pdf
 
+#### LQR
+
+###### iLQR
+
+https://studywolf.wordpress.com/2016/02/03/the-iterative-linear-quadratic-regulator-method/
+
 
