@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=LunfgUhlo_M
 
 ##### pi local wlan webserver
 
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2002171.htm
+
 https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
 
 ##### pi can 2 module
