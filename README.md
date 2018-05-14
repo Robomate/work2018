@@ -83,4 +83,6 @@ https://arxiv.org/pdf/1712.04965.pdf
 
 https://studywolf.wordpress.com/2016/02/03/the-iterative-linear-quadratic-regulator-method/
 
+###### blender tutorial
 
+https://www.youtube.com/watch?v=jj3E2SDByYU
