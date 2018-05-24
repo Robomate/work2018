@@ -22,6 +22,16 @@ http://copperhilltech.com/pican2-controller-area-network-can-interface-for-raspb
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=155651&p=1023355#p1023355
 
+##### threading
+
+https://stackoverflow.com/questions/2846653/how-to-use-threading-in-python
+
+https://stackoverflow.com/questions/26432411/multiprocessing-dummy-in-python-is-not-utilising-100-cpu
+
+https://realpython.com/python-gil/
+
+https://stackoverflow.com/questions/41126424/pythons-collection-deque-does-not-seem-to-be-thread-safe-with-multiprocessing-p
+
 ##### install qt
 
 https://sites.google.com/site/hardwaremonkey/real-time_bar_display
